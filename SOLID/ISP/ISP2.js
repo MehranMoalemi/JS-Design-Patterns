@@ -1,5 +1,6 @@
 // I'll be giving two examples, one with JavaScript since it's the programming language
-// we've been using on the previous principles, and another general example on how to implement this principle on different programming languages.
+// we've been using on the previous principles, and another general example 
+//on how to implement this principle on different programming languages.
 
 // Since JavaScript does not implement interfaces, we'll be demonstrating this principle
 // through composition by adding pieces of functionality to the classes that need specific actions.
