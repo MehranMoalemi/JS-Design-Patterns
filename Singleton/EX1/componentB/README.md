@@ -1,0 +1,1 @@
+We do the same thing as of what we did inside the componentA file, but in this case we update the value of the color picker present inside componentA (that is, we update the value of element #color-picker-a).
